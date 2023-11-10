@@ -1,5 +1,5 @@
 console.log("object");
 
-function sayHello {
-    alert('hello');
+function sayHello () {
+    console.log("Hola, Como estan?");
 }
