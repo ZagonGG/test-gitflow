@@ -4,5 +4,5 @@ function sayHello () {
     console.log("Hola, Como estan?");
 }
 function sayBye (){
-    console.log("Adios!");
+    console.log("Bye Bye!");
 }
